@@ -123,37 +123,22 @@ Wokwi abil saab proovida programmi ja juhtimiskäske, kuid see ei näita, kui ki
 
 ### Viiguplaan
 
-1. Must - 3V 
-2. Valge - GND
-3. Hall - D15
-4. Lilla - D2
-5. Sinine - D4
-6. Roheline - RX2
-7. Kollane - TX2
-8. Oranž - D5
-9. Punane - D18
-10. Pruun - D19
-11. Must - D21
-12. Valge - RX0
-13. Hall - TX0
-14. Lilla - D22
-15. Sinine - D23
+1. Must - 3V                       16. Roheline - VIN                 
+2. Valge - GND                     17. Kollane - GND
+3. Hall - D15                      18. Oranž - D13
+4. Lilla - D2                      19. Punane - D12
+5. Sinine - D4                     20. Pruun - D14
+6. Roheline - RX2                  21. Must - D27
+7. Kollane - TX2                   22. Valge - D26
+8. Oranž - D5                      23. Hall - D25
+9. Punane - D18                    24. Lilla - D33
+10. Pruun - D19                    25. Sinine - D32
+11. Must - D21                     26. Roheline - D35
+12. Valge - RX0                    27. Kollane - D34
+13. Hall - TX0                     28. Oranž - VN   
+14. Lilla - D22                    29. Punane - VP
+15. Sinine - D23                   30. Pruun - EN
 
-16. Roheline - VIN 
-17. Kollane - GND
-18. Oranž - D13
-19. Punane - D12
-20. Pruun - D14
-21. Must - D27
-22. Valge - D26
-23. Hall - D25
-24. Lilla - D33
-25. Sinine - D32
-26. Roheline - D35
-27. Kollane - D34
-28. Oranž - VN
-29. Punane - VP
-30. Pruun - EN
 
 
 ## Edasine töö
