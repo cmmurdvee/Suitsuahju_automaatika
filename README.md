@@ -121,6 +121,41 @@ Tavaline servo ei ava voolu kadumisel ise möödaviiku. Rikkeasend tuleb lahenda
 
 Wokwi abil saab proovida programmi ja juhtimiskäske, kuid see ei näita, kui kiiresti päris ahi soojeneb, kui palju jõudu siiber vajab või kui ühtlaseks ventilaator kambri muudab.
 
+### Viiguplaan
+
+1. Must - 3V 
+2. Valge - GND
+3. Hall - D15
+4. Lilla - D2
+5. Sinine - D4
+6. Roheline - RX2
+7. Kollane - TX2
+8. Oranž - D5
+9. Punane - D18
+10. Pruun - D19
+11. Must - D21
+12. Valge - RX0
+13. Hall - TX0
+14. Lilla - D22
+15. Sinine - D23
+
+16. Roheline - VIN 
+17. Kollane - GND
+18. Oranž - D13
+19. Punane - D12
+20. Pruun - D14
+21. Must - D27
+22. Valge - D26
+23. Hall - D25
+24. Lilla - D33
+25. Sinine - D32
+26. Roheline - D35
+27. Kollane - D34
+28. Oranž - VN
+29. Punane - VP
+30. Pruun - EN
+
+
 ## Edasine töö
 
 1. Kinnitan sondide, ekraani, servode ja ventilaatori täpsed mudelid.
