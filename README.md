@@ -123,6 +123,7 @@ Wokwi abil saab proovida programmi ja juhtimiskäske, kuid see ei näita, kui ki
 
 ### Viiguplaan
 
+<pre>
 1. Must - 3V                       16. Roheline - VIN                 
 2. Valge - GND                     17. Kollane - GND
 3. Hall - D15                      18. Oranž - D13
@@ -138,7 +139,7 @@ Wokwi abil saab proovida programmi ja juhtimiskäske, kuid see ei näita, kui ki
 13. Hall - TX0                     28. Oranž - VN   
 14. Lilla - D22                    29. Punane - VP
 15. Sinine - D23                   30. Pruun - EN
-
+</pre>
 
 
 ## Edasine töö
